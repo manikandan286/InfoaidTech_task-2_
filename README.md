@@ -1,2 +1,2 @@
-# InfoaidTech_task-2_-chatbot
+# InfoaidTech_task-2
 Voice Recognition
